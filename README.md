@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fatihes
 - 👀 I’m interested in anything about finance.
-- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Algorithmic Trading.
 - 📫 How to reach me fatiheminsen@gmail.com
 
